@@ -1,1 +1,1 @@
-Template api in flask and python3.10
+A simple Api Flask template
